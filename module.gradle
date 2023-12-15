@@ -1,0 +1,9 @@
+ext {
+    moduleLibraryName = "NaziMod"
+    magiskModuleId = "NaziMod"
+    moduleName = "Nazi Mod"
+    moduleAuthor = "soto_sapi1"
+    moduleDescription = "hi"
+    moduleVersion = "v1.52"
+    moduleVersionCode = 1
+}
